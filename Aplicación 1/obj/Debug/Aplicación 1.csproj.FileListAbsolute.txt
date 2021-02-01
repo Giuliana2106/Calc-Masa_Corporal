@@ -1,0 +1,9 @@
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\bin\Debug\Aplicación 1.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\bin\Debug\Aplicación 1.pdb
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación 1.csprojAssemblyReference.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación_1.Form1.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación_1.Properties.Resources.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación 1.csproj.GenerateResource.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación 1.csproj.CoreCompileInputs.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación 1.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calc-Masa_Corporal\Aplicación 1\obj\Debug\Aplicación 1.pdb
